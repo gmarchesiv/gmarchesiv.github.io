@@ -1,0 +1,36 @@
+.iconos{
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 2.75em;
+    display: inline-block;
+    height: 2.75em;
+    line-height: 2.75em;
+    width: 2.75em;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+  }
+  .iconos2{
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 2.75em;
+    display: inline-block;
+    height: 3.5em;
+    line-height: 3.5em;
+    width:  3.5em;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+  }
+.iconos:hover  {
+    box-shadow: inset 0 0 0 1px #47D3E5;
+    color: #47D3E5;
+}
+
+
+.iconos2:hover  {
+    box-shadow: inset 0 0 0 1px #47D3E5;
+    color: #47D3E5;
+}
